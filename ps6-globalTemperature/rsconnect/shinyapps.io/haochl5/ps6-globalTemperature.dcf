@@ -1,0 +1,13 @@
+name: ps6-globalTemperature
+title: ps6-globalTemperature
+username:
+account: haochl5
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8499886
+bundleId: 6925453
+url: https://haochl5.shinyapps.io/ps6-globalTemperature/
+when: 1678186189.20669
+lastSyncTime: 1678186189.20669
+asMultiple: FALSE
+asStatic: FALSE
